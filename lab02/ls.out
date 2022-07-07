@@ -1,0 +1,29 @@
+total 132
+drwxr-xr-x   2 root root 12288  4월 17 12:56 bin
+drwxr-xr-x   3 root root  4096  8월 26 10:14 boot
+drwxrwxr-x   2 root root  4096  9월  1  2015 cdrom
+drwxr-xr-x  19 root root  4060  8월 26 10:17 dev
+drwxr-xr-x 153 root root 12288  9월 19 12:23 etc
+drwxr-xr-x  82 root root  4096  8월 31 10:58 home
+lrwxrwxrwx   1 root root    33  8월 26 10:11 initrd.img -> boot/initrd.img-4.4.0-210-generic
+lrwxrwxrwx   1 root root    33  8월 26 10:11 initrd.img.old -> boot/initrd.img-4.4.0-209-generic
+drwxr-xr-x  26 root root  4096  8월 26 10:09 lib
+drwxr-xr-x   2 root root 12288  8월 26 10:09 lib32
+drwxr-xr-x   2 root root  4096  8월 26 10:09 lib64
+drwxr-xr-x   2 root root 12288  8월 26 10:09 libx32
+drwx------   2 root root 16384  9월  1  2015 lost+found
+drwxr-xr-x   2 root root  4096  8월  5  2015 media
+drwxr-xr-x   2 root root  4096  9월  8  2016 mnt
+drwxr-xr-x   2 root root  4096  8월  5  2015 opt
+dr-xr-xr-x 237 root root     0  8월 26 10:17 proc
+drwx------  10 root root  4096  6월 17 20:43 root
+drwxr-xr-x  28 root root  1000  9월 24 14:00 run
+drwxr-xr-x   2 root root 12288  8월 26 10:09 sbin
+drwxr-xr-x   5 root root  4096  9월 10  2020 snap
+drwxr-xr-x   2 root root  4096  8월  5  2015 srv
+dr-xr-xr-x  13 root root     0  9월  2 13:59 sys
+drwxrwxrwt  10 root root  4096  9월 24 14:30 tmp
+drwxr-xr-x  13 root root  4096 12월 20  2019 usr
+drwxr-xr-x  15 root root  4096  8월 27  2019 var
+lrwxrwxrwx   1 root root    30  8월 26 10:11 vmlinuz -> boot/vmlinuz-4.4.0-210-generic
+lrwxrwxrwx   1 root root    30  8월 26 10:11 vmlinuz.old -> boot/vmlinuz-4.4.0-209-generic
